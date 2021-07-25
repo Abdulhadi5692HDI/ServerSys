@@ -1,0 +1,12 @@
+---
+name: ServerSys
+version: 0.0.1
+main: abdulhadi5692\ServerSys\Main
+api: 3.19.2
+...
+
+#Made by abdulhadi
+
+commands:
+opengreet:
+description: "Greetings.. <from server>"
